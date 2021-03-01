@@ -1,274 +1,274 @@
 [
     {
         "name": "Box Hill Institute",
-        "logo": "/TAFE/Box Hill Institute.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/Box Hill Institute.jpg"
     },
     {
         "name": "Canberra Institute of Technology",
-        "logo": "/TAFE/Canberra Institute of Technology.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/Canberra Institute of Technology.jpg"
     },
     {
         "name": "Chisholm Institute",
-        "logo": "/TAFE/Chisholm Institute.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/Chisholm Institute.jpg"
     },
     {
         "name": "GOTAFE (Goulburn Ovens Institute of TAFE)",
-        "logo": "/TAFE/GOTAFE (Goulburn Ovens Institute of TAFE).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/GOTAFE (Goulburn Ovens Institute of TAFE).jpg"
     },
     {
         "name": "Holmesglen",
-        "logo": "/TAFE/Holmesglen.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/Holmesglen.jpg"
     },
     {
         "name": "Kangan Institute",
-        "logo": "/TAFE/Kangan Institute.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/Kangan Institute.jpg"
     },
     {
         "name": "Melbourne Polytechnic",
-        "logo": "/TAFE/Melbourne Polytechnic.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/Melbourne Polytechnic.jpg"
     },
     {
         "name": "Sunraysia Institute of TAFE",
-        "logo": "/TAFE/Sunraysia Institute of TAFE.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/Sunraysia Institute of TAFE.jpg"
     },
     {
         "name": "TAFE NSW",
-        "logo": "/TAFE/TAFE NSW.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/TAFE NSW.jpg"
     },
     {
         "name": "TAFE Queensland Brisbane",
-        "logo": "/TAFE/TAFE Queensland Brisbane.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/TAFE Queensland Brisbane.jpg"
     },
     {
         "name": "TAFE Queensland",
-        "logo": "/TAFE/TAFE Queensland.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/TAFE Queensland.jpg"
     },
     {
         "name": "TAFE SA",
-        "logo": "/TAFE/TAFE SA.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/TAFE SA.jpg"
     },
     {
         "name": "TAFE Western Australia",
-        "logo": "/TAFE/TAFE Western Australia.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/TAFE Western Australia.jpg"
     },
     {
         "name": "TasTAFE",
-        "logo": "/TAFE/TasTAFE.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/TasTAFE.jpg"
     },
     {
         "name": "The Gordon",
-        "logo": "/TAFE/The Gordon.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/The Gordon.jpg"
     },
     {
         "name": "William Angliss Institute",
-        "logo": "/TAFE/William Angliss Institute.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/TAFE/William Angliss Institute.jpg"
     },
     {
         "name": "Australian Catholic University",
-        "logo": "/UNI/Australian Catholic University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Australian Catholic University.jpg"
     },
     {
         "name": "Bond University",
-        "logo": "/UNI/Bond University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Bond University.jpg"
     },
     {
         "name": "Charles Darwin University",
-        "logo": "/UNI/Charles Darwin University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Charles Darwin University.jpg"
     },
     {
         "name": "Charles Sturt University",
-        "logo": "/UNI/Charles Sturt University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Charles Sturt University.jpg"
     },
     {
         "name": "CQUniversity Australia",
-        "logo": "/UNI/CQUniversity Australia.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/CQUniversity Australia.jpg"
     },
     {
         "name": "Curtin College",
-        "logo": "/UNI/Curtin College.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Curtin College.jpg"
     },
     {
         "name": "Curtin University",
-        "logo": "/UNI/Curtin University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Curtin University.jpg"
     },
     {
         "name": "Deakin University",
-        "logo": "/UNI/Deakin University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Deakin University.jpg"
     },
     {
         "name": "Edith Cowan College (ECC)",
-        "logo": "/UNI/Edith Cowan College (ECC).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Edith Cowan College (ECC).jpg"
     },
     {
         "name": "Edith Cowan University (ECU)",
-        "logo": "/UNI/Edith Cowan University (ECU).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Edith Cowan University (ECU).jpg"
     },
     {
         "name": "Federation University Australia",
-        "logo": "/UNI/Federation University Australia.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Federation University Australia.jpg"
     },
     {
         "name": "Flinders University",
-        "logo": "/UNI/Flinders University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Flinders University.jpg"
     },
     {
         "name": "Griffith College",
-        "logo": "/UNI/Griffith College.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Griffith College.jpg"
     },
     {
         "name": "Griffith University",
-        "logo": "/UNI/Griffith University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Griffith University.jpg"
     },
     {
         "name": "Institute of Continuing & TESOL Education (ICTE)",
-        "logo": "/UNI/Institute of Continuing & TESOL Education (ICTE).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Institute of Continuing & TESOL Education (ICTE).jpg"
     },
     {
         "name": "James Cook University Brisbane",
-        "logo": "/UNI/James Cook University Brisbane.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/James Cook University Brisbane.jpg"
     },
     {
         "name": "James Cook University",
-        "logo": "/UNI/James Cook University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/James Cook University.jpg"
     },
     {
         "name": "La Trobe University",
-        "logo": "/UNI/La Trobe University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/La Trobe University.jpg"
     },
     {
         "name": "Macquarie University",
-        "logo": "/UNI/Macquarie University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Macquarie University.jpg"
     },
     {
         "name": "Monash College",
-        "logo": "/UNI/Monash College.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Monash College.jpg"
     },
     {
         "name": "Monash University",
-        "logo": "/UNI/Monash University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Monash University.jpg"
     },
     {
         "name": "Murdoch Institute of Technology",
-        "logo": "/UNI/Murdoch Institute of Technology.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Murdoch Institute of Technology.jpg"
     },
     {
         "name": "Murdoch University",
-        "logo": "/UNI/Murdoch University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Murdoch University.jpg"
     },
     {
         "name": "Ozford Institute of Higher Education",
-        "logo": "/UNI/Ozford Institute of Higher Education.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Ozford Institute of Higher Education.jpg"
     },
     {
         "name": "Queensland University of Technology (QUT)",
-        "logo": "/UNI/Queensland University of Technology (QUT).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Queensland University of Technology (QUT).jpg"
     },
     {
         "name": "RMIT University (Royal Melbourne Institute of Technology University)",
-        "logo": "/UNI/RMIT University (Royal Melbourne Institute of Technology University).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/RMIT University (Royal Melbourne Institute of Technology University).jpg"
     },
     {
         "name": "Sheridan College",
-        "logo": "/UNI/Sheridan College.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Sheridan College.jpg"
     },
     {
         "name": "Southern Cross University",
-        "logo": "/UNI/Southern Cross University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Southern Cross University.jpg"
     },
     {
         "name": "Swinburne University of Technology",
-        "logo": "/UNI/Swinburne University of Technology.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Swinburne University of Technology.jpg"
     },
     {
         "name": "The Australian National University",
-        "logo": "/UNI/The Australian National University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/The Australian National University.jpg"
     },
     {
         "name": "The Hotel School",
-        "logo": "/UNI/The Hotel School.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/The Hotel School.jpg"
     },
     {
         "name": "The University of Adelaide (UoA)",
-        "logo": "/UNI/The University of Adelaide (UoA).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/The University of Adelaide (UoA).jpg"
     },
     {
         "name": "The University of Melbourne",
-        "logo": "/UNI/The University of Melbourne.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/The University of Melbourne.jpg"
     },
     {
         "name": "The University of Notre Dame Australia",
-        "logo": "/UNI/The University of Notre Dame Australia.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/The University of Notre Dame Australia.jpg"
     },
     {
         "name": "The University of Queensland",
-        "logo": "/UNI/The University of Queensland.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/The University of Queensland.jpg"
     },
     {
         "name": "The University of Sydney",
-        "logo": "/UNI/The University of Sydney.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/The University of Sydney.jpg"
     },
     {
         "name": "The University of Western Australia (UWA)",
-        "logo": "/UNI/The University of Western Australia (UWA).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/The University of Western Australia (UWA).jpg"
     },
     {
         "name": "Torrens University Australia",
-        "logo": "/UNI/Torrens University Australia.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Torrens University Australia.jpg"
     },
     {
         "name": "University of Canberra",
-        "logo": "/UNI/University of Canberra.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of Canberra.jpg"
     },
     {
         "name": "University of Divinity",
-        "logo": "/UNI/University of Divinity.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of Divinity.jpg"
     },
     {
         "name": "University of New England (UNE)",
-        "logo": "/UNI/University of New England (UNE).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of New England (UNE).jpg"
     },
     {
         "name": "University of New South Wales - UNSW",
-        "logo": "/UNI/University of New South Wales - UNSW.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of New South Wales - UNSW.jpg"
     },
     {
         "name": "University of Newcastle",
-        "logo": "/UNI/University of Newcastle.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of Newcastle.jpg"
     },
     {
         "name": "University of South Australia (UniSA)",
-        "logo": "/UNI/University of South Australia (UniSA).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of South Australia (UniSA).jpg"
     },
     {
         "name": "University of Southern Queensland (USQ)",
-        "logo": "/UNI/University of Southern Queensland (USQ).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of Southern Queensland (USQ).jpg"
     },
     {
         "name": "University of Tasmania (UTAS)",
-        "logo": "/UNI/University of Tasmania (UTAS).jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of Tasmania (UTAS).jpg"
     },
     {
         "name": "University of Technology Sydney - UTS",
-        "logo": "/UNI/University of Technology Sydney - UTS.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of Technology Sydney - UTS.jpg"
     },
     {
         "name": "University of the Sunshine Coast",
-        "logo": "/UNI/University of the Sunshine Coast.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of the Sunshine Coast.jpg"
     },
     {
         "name": "University of Wollongong",
-        "logo": "/UNI/University of Wollongong.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/University of Wollongong.jpg"
     },
     {
         "name": "UNSW Global",
-        "logo": "/UNI/UNSW Global.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/UNSW Global.jpg"
     },
     {
         "name": "Victoria University",
-        "logo": "/UNI/Victoria University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Victoria University.jpg"
     },
     {
         "name": "Western Sydney University",
-        "logo": "/UNI/Western Sydney University.jpg"
+        "logo": "https://raw.githubusercontent.com/minhdq1998/AusUniversityLogoApi/main/UNI/Western Sydney University.jpg"
     }
 ]
