@@ -22,13 +22,15 @@ if __name__ == '__main__':
     tafe_data = read_data_csv('tafe.csv')
     uni_data = read_data_csv('uni.csv')
 
-    schools = []
+    schools = {}
 
     for tafe in tafe_data:
-        schools.append(data_row_to_dict(tafe, type='TAFE', url=api_url))
+        # schools.append(data_row_to_dict(tafe, type='TAFE', url=api_url))
+        schools[f'{tafe[0]}/'] = f'{api_url}/"TAFE"/{tafe[1]}'
 
     for uni in uni_data:
-        schools.append(data_row_to_dict(uni, type='UNI', url=api_url))
+        # schools.append(data_row_to_dict(uni, type='UNI', url=api_url))
+        schools[f'{uni[0]}/'] = f'{api_url}/"TAFE"/{uni[1]}'
     
     # for school in schools:
     #     with open(f'{root_folder}/{school["name"]}.json', 'w') as jsonfile:
