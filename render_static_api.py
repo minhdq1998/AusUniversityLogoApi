@@ -12,8 +12,7 @@ def read_data_csv(filename):
 
 def data_row_to_dict(row, type, url):
     return {
-        'name': row[0],
-        'logo': f'{url}/{type}/{row[1]}'
+        f'{row[0]}': f'{url}/{type}/{row[1]}'
     }
 
 if __name__ == '__main__':
@@ -31,9 +30,9 @@ if __name__ == '__main__':
     for uni in uni_data:
         schools.append(data_row_to_dict(uni, type='UNI', url=api_url))
     
-    for school in schools:
-        with open(f'{root_folder}/{school["name"]}.json', 'w') as jsonfile:
-            json.dump(school, jsonfile)
+    # for school in schools:
+    #     with open(f'{root_folder}/{school["name"]}.json', 'w') as jsonfile:
+    #         json.dump(school, jsonfile)
 
     with open(f'{root_folder}/all.json', 'w') as jsonfile:
         json.dump(schools, jsonfile, indent=4)
